@@ -7,6 +7,7 @@ public class ArraysExample {
 		//First way of declaring an array
 		String countries[]= {"Australia", "Switzerland", "New Zealand"};
 		System.out.println(countries[2]);
+		System.out.println("Checking the git changes");
 
 	
 
